@@ -11,7 +11,6 @@ ToneCraft 的公开发布与法律页面仓库。
 
 - 应用名称：ToneCraft
 - Android application ID：`com.gavyn.tonecraft`
-- 当前版本：`1.0.0`（versionCode `1`）
 - 支持平台：Android
 - 联系邮箱：`gxyancn@qq.com`
 
